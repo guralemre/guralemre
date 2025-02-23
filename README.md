@@ -1,4 +1,4 @@
-### Hi there! I'm a Software Developer 👋
+### Hi there! I'm Emre 👋
 
 I'm a passionate software developer specializing in **Python, Java, and JavaScript**. I love building efficient, scalable, and maintainable applications.
 
@@ -7,10 +7,16 @@ I'm a passionate software developer specializing in **Python, Java, and JavaScri
 ### 🚀 About Me:
 - 💻 Passionate about backend and full-stack development
 - 📚 Always learning new technologies and best practices
-- 🔧 Experienced with frameworks like **Spring Boot, Express.js, Django, and Flask**
+- 🔧 Experienced with frameworks like **Spring Boot and Flask**
 - 📊 Interested in data science, automation, and system design
 
 ---
+
+---
+
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guralemre&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guralemre&layout=compact&theme=dark)
 
 ### 🛠 Tech Stack:
 #### Programming Languages:
@@ -31,14 +37,10 @@ I'm a passionate software developer specializing in **Python, Java, and JavaScri
 ---
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emregural)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guralemre)
 
----
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=dark)
 
 ---
 
