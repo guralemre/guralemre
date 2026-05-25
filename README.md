@@ -1,45 +1,78 @@
+# 
+
 ### Hi there! I'm Emre 👋
 
-I'm a passionate software developer specializing in **Python, Java, and JavaScript**. I love building efficient, scalable, and maintainable applications.
+I'm a **Software Development** student and developer specializing in building efficient backend systems, intelligent applications, and scalable software solutions. I bridge the gap between robust system architecture and cutting-edge machine learning.
 
 ---
 
-### 🚀 About Me:
-- 💻 Passionate about backend and full-stack development
-- 📚 Always learning new technologies and best practices
-- 🔧 Experienced with frameworks like **Spring Boot and Flask**
-- 📊 Interested in data science, automation, and system design
+### 🚀 About Me
+
+- 💻 **Backend & Full-Stack:** Passionate about building maintainable, scalable architectures.
+- 🤖 **AI & Data Science:** Deeply interested in **Machine Learning**, **Predictive Regression Modeling**, and **Retrieval-Augmented Generation (RAG)** systems.
+- 🔧 **Systems & Infrastructure:** Experienced with Linux environments, automation scripts, and server configurations.
+- 📚 **Continuous Learner:** Always exploring new frameworks, optimization techniques, and best practices.
 
 ---
 
+### 🛠 Tech Stack
+
+#### 🚀 Core Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+#### 🌐 Frameworks & Backend Ecosystem
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</p>
+
+#### 📊 AI, Machine Learning & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/XGBoost-11325D?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>
+
+#### ⚙️ Infrastructure & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
 ---
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guralemre&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guralemre&layout=compact&theme=dark)
+### 📈 Current Focus & Projects
 
-### 🛠 Tech Stack:
-#### Programming Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### Frameworks & Libraries:
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-
-#### Tools & Platforms:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 🤖 Developing **RAG-based chatbots** utilizing vector databases.
+- 📊 Building predictive ML pipelines using **Random Forests, Decision Trees, and XGBoost** to analyze industry data.
+- 🐧 Exploring **Linux kernel modules**, secure boot structures, and low-level system interactions.
 
 ---
 
-### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emregural)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guralemre)
+### 📊 GitHub Stats
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guralemre&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Emre's GitHub Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guralemre&layout=compact&theme=dark" alt="Top Languages" height="192px" />
+</p>
 
 ---
 
-🚀 *Let's build something amazing together!*
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/emregural" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/guralemre" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">🚀 <i>Let's build something amazing together!</i></p>
