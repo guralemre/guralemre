@@ -54,11 +54,8 @@ I'm a **Software Development** student and developer specializing in building ef
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guralemre&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Emre's GitHub Stats" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guralemre&layout=compact&theme=dark" alt="Top Languages" height="192px" />
-</p>
+![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guralemre&show_icons=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guralemre&layout=compact&theme=dark)
 
 ---
 
